@@ -1,0 +1,23 @@
+# Restful-Booker.com
+API Testing of a web application...
+-------------------------------------
+This repository contains a project during my API testing training. The project was completed using a combination of manual testing & API Testing techniques with POSTMAN and test management tools.
+
+Includes:-
+1. API Testing Requirement Document
+2. Test Plan
+3. Test Cases
+4. API Testing in POSTMAN ( Test Execution )
+5. Bug
+-------------------------------------
+https://docs.google.com/document/d/18VplIaB7WaJfSerQXgcN5aQ14yJF0cbfliistax7fe4/edit?usp=sharing
+----------------------------------------------------------------------------------
+https://docs.google.com/document/d/1qnWTPWvHEbmTtb3mOFKCLOzgwWjE1jPk/edit?usp=sharing&ouid=109289475584251463160&rtpof=true&sd=true
+-------------------------------------------------------------------------------------
+https://docs.google.com/document/d/1HKvrK-znrDsszWeEUUtqZMlR5VcYzeeLt5zYt6g0Ed0/edit?usp=sharing
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------
+| Project Name    |                       Description                       |        Tools Used        |
+|-----------------|---------------------------------------------------------|--------------------------|
+| Restful-Booker  |      API Testing of Restful Booker web application      |Test Requirement Doc., Test Plan, Test Cases, Test Case Execution Doc., Bug, POSTMAN|
